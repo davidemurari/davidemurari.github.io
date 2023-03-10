@@ -1,12 +1,9 @@
----
-layout: archive
-collection: notes
-date: 2023-03-10
-permalink: /morse-function/
-tags: "morseTheory"
-title: "Morse functions"
-math: true
----
++++
+date= "2023-03-10"
+tags= "morseTheory"
+title= "Morse functions"
+math= true
++++
 
 Source : https://ncatlab.org/nlab/show/Morse+function
 

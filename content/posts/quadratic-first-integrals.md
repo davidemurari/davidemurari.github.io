@@ -1,11 +1,9 @@
----
-layout: archive
-collection: posts
-date: 2022-08-14
-permalink: /Quadratic-First-Integrals/
-title: "Geometric integrators that preserve quadratic first integrals"
-math: true
----
++++
+date="2022-08-14"
+title="Geometric integrators that preserve quadratic first integrals"
+tags = ["geometric integration","numerical analysis"]
+math=true
++++
 
 ![Cover photo](/images/Preserving-quadratic-first-integrals.png)
 

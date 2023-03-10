@@ -1,11 +1,9 @@
----
-layout: archive
-collection: notes
-date: 2023-03-10
-permalink: /pseudo-gradients/
-title: "Pseudo-gradient vector fields"
-math: true
----
++++
+date="2023-03-10"
+title="Pseudo-gradient vector fields"
+math=true
+tags=["dynamical systems", "morse theory", "differential geometry"]
++++
 
 > Add an image with an example of a pseudo-gradient field
 
