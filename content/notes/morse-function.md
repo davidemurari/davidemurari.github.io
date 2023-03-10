@@ -3,6 +3,7 @@ layout: archive
 collection: notes
 date: 2023-03-10
 permalink: /morse-function/
+tags: "morseTheory"
 title: "Morse functions"
 math: true
 ---
