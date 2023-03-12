@@ -11,7 +11,7 @@ tags=["dynamical systems", "morse theory", "differential geometry"]
 **Source** : Morse Theory and Floer Homology
 **Authors** : Michèle Audin, Mihai Damian
 
-In this note we define what are **pseudo-gradient fields**, that are related to the critical points of a **[Morse function](/notes/morse-function)**.
+In this note we define what are **pseudo-gradient fields**, that are related to the critical points of a **[Morse function](/posts/morse-function)**.
 
 We just work on $\mathcal{M}=\mathbb{R}^n$, but the reasoning can be extended to a generic manifold. Let $f:\mathbb{R}^n\rightarrow\mathbb{R}$, then its gradient is a map $\nabla f:\mathbb{R}^n\rightarrow\mathbb{R}^n$ that in general is defined by
 
