@@ -5,6 +5,13 @@ permalink: talks/
 author_profile: true
 ---
 
+- ECMI Conference 2023, Wroklav, Poland, "Learning Hamiltonians of constrained mechanical systems", [**SLIDES**](https://slides.com/davidemurari/learning-hamiltonians-of-constrained-systems-verona/fullscreen)
+- FoCM 2023, Paris, 12-06-2023, "Structured neural networks and some applications to dynamical systems", [**SLIDES**](https://slides.com/davidemurari/focm-2023/fullscreen)
+- The mathematical and statistical foundation of future data-driven engineering, Newton-Institute Cambridge, 30-05-2023, [**SLIDES**](https://slides.com/davidemurari/slides-ini/fullscreen)
+- CIA Seminar, Cambridge, 24-03-2023, "From neural networks to dynamical systems and back", [**SLIDES**](https://slides.com/davidemurari/talk-cia/fullscreen)
+- SIAM CS23, Amsterdam, 
+- Theoretical and Computational aspects of Dynamical Systems (HB60), Trysil, Norway, 13-12-2022, "Dynamical systems' based neural networks", [**SLIDES**](https://slides.com/davidemurari/slides-hb60/fullscreen)
+- The Symbiosis of Deep Learning and Differential Equations (DLDE) - II, NeurIPS Workshop, 09-12-2022, [**POSTER**](https://slides.com/davidemurari/poster-dlde/fullscreen)
 - SciCADE, Reykjavík, 28-07-2022, "Structure preserving neural networks coming from ODE models", [**SLIDES**](https://slides.com/davidemurari/neural-networks-scicade2022/fullscreen)
 - One day – Young Researchers Seminars, Maths Applications & Models,"Learning Hamiltonians of constrained mechanical systems", 08-07-2022 [**SLIDES**](https://slides.com/davidemurari/constrained-hamiltonians-verona/fullscreen)
 - DNA Seminar NTNU, "Neural networks modelled by dynamical systems", 20-06-2022 [**SLIDES**](https://slides.com/davidemurari/dna-seminar-2022/fullscreen)
