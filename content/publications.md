@@ -11,4 +11,7 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 ### Preprints
 
 - Celledoni, E., Jackaman, J., Murari, D., & Owren, B. (2023). Predictions Based on Pixel Data: Insights from PDEs and Finite Differences. arXiv preprint arXiv:2305.00723.
+- Celledoni, E., Murari, D., Owren, B., Schönlieb, C. B., & Sherry, F. (2022). Dynamical systems' based neural networks. arXiv preprint arXiv:2210.02373.
 
+### Non-archival reports
+- Murari, D., Celledoni, E., Owren, B., Schönlieb, C. B., & Sherry, F. Structure preserving neural networks based on ODEs. In The Symbiosis of Deep Learning and Differential Equations II.
