@@ -1,12 +1,12 @@
-# About me
+# About me and my research
 
-I am Davide Murari, and I am from Italy. I like reading, running and trying to explain what I know online. I'm a second-year PhD student in the group of Differential Equations and Numerical Analysis (DNA) at NTNU, Trondheim, Norway.
+I am Davide Murari, and I am from Italy. I like reading, long-distance running and trying to explain what I know online. I have a Youtube channel about mathematics' outreach in italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a third-year PhD student in the group of Differential Equations and Numerical Analysis (DNA) at NTNU, Trondheim, Norway.
 
-Both my Bachelor degree and my Master degree were in Applied Mathematics, at the University of Verona, Italy. During the master, I had the opportunity of attending the Modelling week at Grenoble and spending five months in Nice (at the University of Cote d'Azur) for the Erasmus program. My bachelor thesis was on dynamical billiards, while the master's one on the theory of integrability of non-Hamiltonian dynamical systems.
+Both my Bachelor degree and my Master degree were in Applied Mathematics, at the University of Verona, Italy. My bachelor thesis was on dynamical billiards, while the master's one on the theory of integrability of non-Hamiltonian dynamical systems.
 
-During university, I developed a great interest in dynamical systems and geometric mechanics. In the DNA group here at NTNU, I found the opportunity of merging these two interests with the one of numerical implementation. My PhD thesis will focus on
+During university, I developed a great interest in dynamical systems and geometric mechanics. In the DNA group at NTNU, I found the opportunity of merging these two interests with the one of numerical implementation. My PhD thesis will focus on
 
-> analysing deep neural networks from the perspective of dynamical systems and data-driven modelling for mechanical systems.
+> analysing deep neural networks from the perspective of dynamical systems and data-driven modelling for dynamical systems.
 
 The current draft of the thesis' title is "From dynamical systems to deep learning and back: network architectures based on vector fields and data-driven modelling".
 
