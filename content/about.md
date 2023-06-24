@@ -1,6 +1,6 @@
 # About me and my research
 
-I am Davide Murari, and I am from Italy. I like reading, long-distance running and trying to explain what I know online. I have a Youtube channel about mathematics' outreach in italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a third-year PhD student in the group of Differential Equations and Numerical Analysis (DNA) at NTNU, Trondheim, Norway.
+I am Davide Murari, and I am from Italy. I like reading, long-distance running and trying to explain what I know online. I have a Youtube channel about mathematics' popularisation in italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a third-year PhD student in the group of Differential Equations and Numerical Analysis (DNA) at NTNU, Trondheim, Norway.
 
 Both my Bachelor degree and my Master degree were in Applied Mathematics, at the University of Verona, Italy. My bachelor thesis was on dynamical billiards, while the master's one on the theory of integrability of non-Hamiltonian dynamical systems.
 
