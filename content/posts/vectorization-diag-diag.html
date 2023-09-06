@@ -51,10 +51,10 @@ ul.task-list{list-style: none;}
 \]</span></p>
 <p>They are both linear operators. We now write explicitly the vectorized version of the second one. This means that we write the matrix <span class="math inline">\(T\in\mathbb{R}^{n^2\times n^2}\)</span> such that <span class="math inline">\(\mathrm{vec}^{-1}(T\mathrm{vec}(A)) = \mathrm{diag}^2(A)\)</span>. To do so, we use the properties of the vectorization operator <span class="math inline">\(\mathrm{vec}:\mathbb{R}^{n\times n}\rightarrow\mathbb{R}^{n^2}\)</span>, which outputs a vector where all the columns of the input are stacked one below the other.</p>
 <p><span class="math display">\[
-\begin{split}
-\mathrm{vec}(\mathrm{diag}^2(A)) &amp;= \sum_{i=1}^n \mathrm{vec}([e_i^TAe_i]e_ie_i^T) = \sum_{i=1}^n \mathrm{vec}(e_ie_i^TAe_ie_i^T) \\
-&amp;=\left(\sum_{i=1}^n (e_ie_i^T)\otimes (e_ie_i^T)\right)\mathrm{vec}(A) =:T\mathrm{vec}(A).
-\end{split}
+\mathrm{vec}(\mathrm{diag}^2(A)) = \sum_{i=1}^n \mathrm{vec}([e_i^TAe_i]e_ie_i^T) = \sum_{i=1}^n \mathrm{vec}(e_ie_i^TAe_ie_i^T)
+\]</span></p>
+<p><span class="math display">\[
+=\left(\sum_{i=1}^n (e_ie_i^T)\otimes (e_ie_i^T)\right)\mathrm{vec}(A) =:T\mathrm{vec}(A).
 \]</span></p>
 
 </main>
