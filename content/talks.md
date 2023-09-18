@@ -4,8 +4,7 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
-- TES Conference on Mathematical Optimization for Machine Learning, Berlin, "Predictions Based on Pixel Data", [**SLIDES**](https://davidemurari.com/slides/slidesBerlin.pdf)
-[SLIDES](/slides/slidesBerlin.pdf)
+- TES Conference on Mathematical Optimization for Machine Learning, Berlin, "Predictions Based on Pixel Data", [**SLIDES**](/slides/slidesBerlin.pdf)
 - ICIAM 2023, Tokyo, Japan, "Structured neural networks and some applications", [**SLIDES**](https://slides.com/davidemurari/iciam-2023/fullscreen)
 - ECMI Conference 2023, Wroklav, Poland, "Learning Hamiltonians of constrained mechanical systems", [**SLIDES**](https://slides.com/davidemurari/learning-hamiltonians-of-constrained-systems-ecmi/fullscreen)
 - FoCM 2023, Paris, 12-06-2023, "Structured neural networks and some applications to dynamical systems", [**SLIDES**](https://slides.com/davidemurari/focm-2023/fullscreen)
@@ -21,7 +20,7 @@ author_profile: true
 - Machine Learning and Dynamical Systems Seminar, Turing Institute, 05-05-2022, "Learnings Hamiltonians of constrained mechanical systems", [**SLIDES**](https://slides.com/davidemurari/constrained-hamiltonian/fullscreen)
 - Veronesi Tutti Math Seminar, 06-04-2022, "Some connections between dynamical systems and neural networks", [**SLIDES**](https://slides.com/davidemurari/robustness-of-neural-networks)
 - MAGIC 2022, "Robustness of neural networks for classification problems", [**SLIDES**](https://slides.com/davidemurari/robustnessmagic2022)
-- Workshop "Computational Mathematics and Machine Learning", "Learning the Hamiltonian of some constrained mechanical systems": [**SLIDES**](https://davidemurari.com/wp-content/uploads/2022/02/Learning_Some_constrained_Hamiltonian_systems__Leiden_.pdf)
-- NUMDIFF-16, "Learning the Hamiltonian of some classes of mechanical systems": [**SLIDES**](https://davidemurari.com/wp-content/uploads/2022/02/Slides_Learning_Hamiltonian_systems.pdf)
-- DNA Seminar NTNU, "Lie group integrator’s approach to the N-fold pendulum": [**SLIDES**](https://davidemurari.com/wp-content/uploads/2022/02/SLIDEs_Lie_Group_Methods___NFold.pdf)
-- MAGIC 2021, "Lie group integrator’s approach to the N-fold pendulum": [**SLIDES**](https://davidemurari.com/wp-content/uploads/2022/02/Dynamics_N_fold_pendulum_with_Lie_group_integrators.pdf)
+- Workshop "Computational Mathematics and Machine Learning", "Learning the Hamiltonian of some constrained mechanical systems": [**SLIDES**](slides/slidesLeiden.pdf)
+- NUMDIFF-16, "Learning the Hamiltonian of some classes of mechanical systems": [**SLIDES**](slides/slidesHalle.pdf)
+- DNA Seminar NTNU, "Lie group integrator’s approach to the N-fold pendulum": [**SLIDES**](slides/DNA1st.pdf)
+- MAGIC 2021, "Lie group integrator’s approach to the N-fold pendulum": [**SLIDES**](slides/DNA1st.pdf)
