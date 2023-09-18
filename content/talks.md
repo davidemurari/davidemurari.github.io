@@ -5,6 +5,7 @@ permalink: talks/
 author_profile: true
 ---
 - TES Conference on Mathematical Optimization for Machine Learning, Berlin, "Predictions Based on Pixel Data", [**SLIDES**](https://davidemurari.com/slides/slidesBerlin.pdf)
+[SLIDES](/slides/slidesBerling.pdf)
 - ICIAM 2023, Tokyo, Japan, "Structured neural networks and some applications", [**SLIDES**](https://slides.com/davidemurari/iciam-2023/fullscreen)
 - ECMI Conference 2023, Wroklav, Poland, "Learning Hamiltonians of constrained mechanical systems", [**SLIDES**](https://slides.com/davidemurari/learning-hamiltonians-of-constrained-systems-ecmi/fullscreen)
 - FoCM 2023, Paris, 12-06-2023, "Structured neural networks and some applications to dynamical systems", [**SLIDES**](https://slides.com/davidemurari/focm-2023/fullscreen)
