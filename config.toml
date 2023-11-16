@@ -69,4 +69,4 @@ url = "posts/"
 [[menu.main]]
   name = "DL Resources"
   weight = 5
-  url = "deepLearningResources"
+  url = "DeepLearningResources"
