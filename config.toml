@@ -70,3 +70,7 @@ url = "posts/"
   name = "DL Resources"
   weight = 5
   url = "DeepLearningResources"
+[[menu.main]]
+  name = "CV"
+  weight = 6
+  url = "CV"
