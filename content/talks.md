@@ -4,8 +4,9 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- Structured Machine Learning and Time–Stepping for Dynamical Systems, 20 February 2024 - Banff, Canada, "Improving the robustness of Graph
+Neural Networks with coupled dynamical systems", [**SLIDES**](/slides/slidesBanff.pdf)
 - Workshop 20 December 2023 - University of Verona, "Contractive Systems Inspired GNNs", [**SLIDES**](/slides/slidesUnivrDec2023.pdf)
-
 - TES Conference on Mathematical Optimization for Machine Learning, Berlin, "Predictions Based on Pixel Data", [**SLIDES**](/slides/slidesBerlin.pdf)
 - ICIAM 2023, Tokyo, Japan, "Structured neural networks and some applications", [**SLIDES**](https://slides.com/davidemurari/iciam-2023/fullscreen)
 - ECMI Conference 2023, Wroklav, Poland, "Learning Hamiltonians of constrained mechanical systems", [**SLIDES**](https://slides.com/davidemurari/learning-hamiltonians-of-constrained-systems-ecmi/fullscreen)
