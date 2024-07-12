@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- SciCADE, 15 July 2024 - Singapore, "Neural network aided simulation of ordinary differential equations", [**SLIDES**](/slides/slidesScicade2024.pdf)
 - Structured Machine Learning and Time–Stepping for Dynamical Systems, 20 February 2024 - Banff, Canada, "Improving the robustness of Graph
 Neural Networks with coupled dynamical systems", [**SLIDES**](/slides/slidesBanff.pdf)
 - Workshop 20 December 2023 - University of Verona, "Contractive Systems Inspired GNNs", [**SLIDES**](/slides/slidesUnivrDec2023.pdf)
