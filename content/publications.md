@@ -4,6 +4,7 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 
 ### Published works
 
+- Celledoni, E., Murari, D., Owren, B., Schönlieb, C. B., & Sherry, F. (2023). Dynamical systems–based neural networks. SIAM Journal on Scientific Computing, 45(6), A3071-A3094.
 - Celledoni, E., Çokaj, E., Leone, A., Murari, D., & Owren, B. (2022). Lie Group integrators for mechanical systems. International Journal of Computer Mathematics, 99(1), 58-88.
 - Celledoni, E., Leone, A., Murari, D., Owren, B., (2022). Learning Hamiltonians of constrained mechanical systems. Journal of Computational and Applied Mathematics, 114608, ISSN 0377-0427, https://doi.org/10.1016/j.cam.2022.114608
 - Celledoni, E., Çokaj, E., Leone, A., Murari, D., & Owren, B. (2021). Dynamics of the N-fold Pendulum in the framework of Lie Group Integrators. In European Consortium for Mathematics in Industry (pp. 297-304). Cham: Springer International Publishing.
@@ -13,7 +14,6 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 - Betcke, M., Kreusser, L.M., Murari, D., "Parallel-In-Time Solutions with Extreme Learning
 Machines", https://davidemurari.com/ELM.pdf
 - Celledoni, E., Jackaman, J., Murari, D., & Owren, B. (2023). Predictions Based on Pixel Data: Insights from PDEs and Finite Differences. arXiv preprint arXiv:2305.00723.
-- Celledoni, E., Murari, D., Owren, B., Schönlieb, C. B., & Sherry, F. (2022). Dynamical systems' based neural networks. arXiv preprint arXiv:2210.02373.
 
 ### Non-archival reports
 - Murari, D., Celledoni, E., Owren, B., Schönlieb, C. B., & Sherry, F. Structure preserving neural networks based on ODEs. In The Symbiosis of Deep Learning and Differential Equations II.
