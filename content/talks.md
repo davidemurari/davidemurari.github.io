@@ -4,6 +4,9 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- PhD Defence Talk, 25 September 2024 - Trondheim, "Neural Networks, Differential Equations, and Structure Preservation"[**SLIDES**](slides/Slides_Defence.pdf)
+- - PhD Defence Trial Lecture, 25 September 2024 - Trondheim, "SINDy – a survey of methods and their
+properties"[**SLIDES**](slides/Slides_Trial_Lecture.pdf)
 - SciCADE, 15 July 2024 - Singapore, "Neural network aided simulation of ordinary differential equations", [**SLIDES**](/slides/slidesScicade2024.pdf)
 - Structured Machine Learning and Time–Stepping for Dynamical Systems, 20 February 2024 - Banff, Canada, "Improving the robustness of Graph
 Neural Networks with coupled dynamical systems", [**SLIDES**](/slides/slidesBanff.pdf)
