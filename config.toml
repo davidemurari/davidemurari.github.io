@@ -32,6 +32,10 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
+# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
+[params.googleTagManager]
+id = "G-GD5GGFV8ZQ"
+
 # Social links
 [[params.social]]
   name = "ResearchGate"
