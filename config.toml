@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "Davide Murari"
-  info = "PhD student in numerical analysis at NTNU\n\n Working on the connections between dynamical systems and neural networks"
+  info = "Postdoctoral Research Associate at the University of Cambridge\n\n Working on the connections between dynamical systems and neural networks"
   description = "Davide Murari's personal website"
   keywords = "davide murari, neural odes, geometric numerical integration, dynamical systems and neural networks"
   avatarurl = "images/profile.png"
