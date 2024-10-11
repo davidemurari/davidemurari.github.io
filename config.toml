@@ -71,9 +71,9 @@ url = "posts/"
   weight = 4
   url = "talks"
 [[menu.main]]
-  name = "DL Resources"
+  name = "Teaching"
   weight = 5
-  url = "DeepLearningResources"
+  url = "teaching"
 [[menu.main]]
   name = "CV"
   weight = 6
