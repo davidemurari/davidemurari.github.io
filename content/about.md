@@ -2,7 +2,7 @@
 
 I am Davide Murari, and I am from Italy. I like reading, long-distance running and trying to explain what I know online. I have a Youtube channel about mathematics' popularisation in Italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a Postdoctoral Research Associate in the Cambridge Image Analysis (CIA) group at the University of Cambridge.
 
-My PhD thesis can be found [**here**](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3153950/Davide%20Murari.pdf?sequence=1) and is titled "Neural Networks, Differential Equations, and Structure Preservation". I have completed my PhD in September 2024, in the Differential Equations and Numerical Analysis group at NTNU, Trondheim, Norway, under the supervision of Elena Celledoni and Brynjulf Owren.
+My PhD thesis can be found [**here**](phd_thesis.pdf) and is titled "Neural Networks, Differential Equations, and Structure Preservation". I have completed my PhD in September 2024, in the Differential Equations and Numerical Analysis group at NTNU, Trondheim, Norway, under the supervision of Elena Celledoni and Brynjulf Owren.
 
 Both my Bachelor degree and my Master degree were in Applied Mathematics, at the University of Verona, Italy. My bachelor thesis was on dynamical billiards, while the master's one on the theory of integrability of non-Hamiltonian dynamical systems.
 
