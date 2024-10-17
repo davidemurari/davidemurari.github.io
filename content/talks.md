@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- SIAM Conference on Mathematics of Data Science (MDS24), 21 October 2024 - Atlanta, USA. "Structure-Preserving Solutions of Hamiltonian Systems Based on Neural Networks", [**SLIDES**](/slides/Slides_SIAM_2024.pdf)
 - PhD Defence Talk, 25 September 2024 - Trondheim, "Neural Networks, Differential Equations, and Structure Preservation", [**SLIDES**](/slides/Slides_Defence.pdf)
 - PhD Defence Trial Lecture, 25 September 2024 - Trondheim, "SINDy – a survey of methods and their
 properties", [**SLIDES**](/slides/Slides_Trial_Lecture.pdf)
