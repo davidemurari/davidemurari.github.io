@@ -22,3 +22,6 @@ author_profile: true
 
 #### Learning applications:
 - 
+
+#### Additional material:
+- My PhD Thesis where other methods are introduced and I focus on the applications to deep neural networks and data-driven modelling: [**PhD Thesis**](/static/phd_thesis.pdf)
