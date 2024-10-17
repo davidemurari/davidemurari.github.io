@@ -24,4 +24,4 @@ author_profile: true
 - 
 
 #### Additional material:
-- My PhD Thesis where other methods are introduced and I focus on the applications to deep neural networks and data-driven modelling: [**PhD Thesis**](/static/phd_thesis.pdf)
+- My PhD Thesis where other methods are introduced and I focus on the applications to deep neural networks and data-driven modelling: [**PhD Thesis**](/phd_thesis.pdf)
