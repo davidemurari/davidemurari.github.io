@@ -21,8 +21,5 @@ author_profile: true
 - Topic 5: Symplectic numerical methods [**NOTES**](/notesUniVR/topic4.pdf)
 - Topic 6: Non-expansive numerical methods [**NOTES**](/notesUniVR/topic5.pdf)
 
-#### Learning applications:
-- 
-
 #### Additional material:
 - My PhD Thesis where other methods are introduced and I focus on the applications to deep neural networks and data-driven modelling: [**PhD Thesis**](/phd_thesis.pdf)
