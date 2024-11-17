@@ -7,6 +7,8 @@ author_profile: true
 
 ### "Geometric methods for differential equations and learning applications" - UniVR
 
+Introductory slides [**SLIDES**](https://docs.google.com/presentation/d/1MZfbEtq8GmEjDnp64cMnYh8c_Jet_9PPRvgwBLBW9RM/edit?usp=sharing)
+
 **Code examples:** https://github.com/davidemurari/univrGeometricIntegration
 
 #### Lecture notes:
