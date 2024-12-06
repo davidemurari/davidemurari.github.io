@@ -4,6 +4,7 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 
 ### Published works
 
+- Celledoni, E., Çokaj, E., Leone, A., Leyendecker, S., Murari, D., Owren, B., de Almagro, R.T. and Stavole, M. (2025). Neural Networks for the Approximation of Euler's Elastica. Computer Methods in Applied Mechanics and Engineering, 435, 117584
 - Celledoni, E., Murari, D., Owren, B., Schönlieb, C. B., & Sherry, F. (2023). Dynamical systems–based neural networks. SIAM Journal on Scientific Computing, 45(6), A3071-A3094.
 - Celledoni, E., Çokaj, E., Leone, A., Murari, D., & Owren, B. (2022). Lie Group integrators for mechanical systems. International Journal of Computer Mathematics, 99(1), 58-88.
 - Celledoni, E., Leone, A., Murari, D., Owren, B., (2022). Learning Hamiltonians of constrained mechanical systems. Journal of Computational and Applied Mathematics, 114608, ISSN 0377-0427, https://doi.org/10.1016/j.cam.2022.114608
