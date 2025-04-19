@@ -12,8 +12,10 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 
 ### Preprints
 
-- Betcke, M., Kreusser, L.M., Murari, D., "Parallel-In-Time Solutions with Extreme Learning
-Machines", https://davidemurari.com/ELM.pdf
+- Murari, D., & Sansonetto, N. (2025). From Euler-Jacobi to Bogoyavlensky and back. arXiv preprint arXiv:2503.21950.
+- Liu, C., Murari, D., Budd, C., Liu, L., & Schönlieb, C. B. (2025). Enhancing Fourier Neural Operators with Local Spatial Features. arXiv preprint arXiv:2503.17797.
+- De Marinis, A., Murari, D., Celledoni, E., Guglielmi, N., Owren, B., & Tudisco, F. (2025). Approximation properties of neural ODEs. arXiv preprint arXiv:2503.15696.
+- Betcke, M. M., Kreusser, L. M., & Murari, D. (2024). Parallel-in-Time Solutions with Random Projection Neural Networks. arXiv preprint arXiv:2408.09756.
 - Celledoni, E., Jackaman, J., Murari, D., & Owren, B. (2023). Predictions Based on Pixel Data: Insights from PDEs and Finite Differences. arXiv preprint arXiv:2305.00723.
 
 ### Non-archival reports
