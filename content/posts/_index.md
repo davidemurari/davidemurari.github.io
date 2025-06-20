@@ -1,4 +1,4 @@
-# Notes
+# Blog posts
 
 In this page I collect some brief notes about what I am reading and studying. These are by no means complete, and they are in continuous evolution. For this reason many notes have boxes like this
 
