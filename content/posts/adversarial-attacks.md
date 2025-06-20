@@ -3,7 +3,7 @@ date= "2023-03-12"
 tags= ["adversarial attacks","neural networks"]
 title= "Adversarial attacks"
 math= true
-comments: true
+comments= true
 +++
 
 > Need to rewrite a bit the text, to make it more clear, and add references.
