@@ -55,7 +55,7 @@ id = "G-GD5GGFV8ZQ"
 
 # Menu links
 [[menu.main]]
-name = "Notes"
+name = "Blog"
 weight = 1
 url = "posts/"
 [[menu.main]]
