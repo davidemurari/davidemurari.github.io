@@ -12,8 +12,6 @@ During university, I developed a great interest in dynamical systems and geometr
 
 By dynamical systems' approach to deep learning, I refer to their possible interpretation as non-autonomous parametric ODEs. Indeed, this comes thinking to neural networks having infinitely many layers, where time is considered a measure of the depth of the network, having hence infinitely many layers.  Therefore, for example, we can think of the challenge of binary classification of points of the plane as "learning a vector field whose flow moves the points so that a hyperplane can separate the two labelled groups".
 
-![Dynamical neural networks](/static/images/result.gif)
-
 Thanks to this construction, many relevant questions and techniques typical of ODEs and Numerical analysis arise in this research area and make me interested in these problems. 
 
 Such a powerful connections between these fields, goes also in the opposite direction. Indeed, with the increasing amount of data we are able to collect nowadays, it becomes interesting to answer to the two following questions - can we approximate the vector fields generating a set of measured trajectories? - can we approximate the solutions to PDEs and ODEs using hybrid approaches involving data driven techniques and numerical analysis? During my PhD I am to investigate these two questions from different angles, and you can already see some work in this direction in the Academic Works page of the website.
