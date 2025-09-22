@@ -5,10 +5,15 @@ permalink: teaching/
 author_profile: true
 ---
 
-### "Geometric methods for differential equations and learning applications" - UniVR
+### CISM–AIMETA Advanced Course on "Machine Learning for Solid Mechanics"
 
-Lecture notes and code: [**LINK**](/notesunivr)
+Slides of the three lectures: [**LINK**](/slidesCISM)
+
 
 ### Graduate Course "Geometric Numerical Analysis and Deep Learning" - University of Cambridge
 
 Lecture notes: [**LINK**](/graduateCourseNotes.pdf)
+
+### "Geometric methods for differential equations and learning applications" - UniVR
+
+Lecture notes and code: [**LINK**](/notesunivr)
