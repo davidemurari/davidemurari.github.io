@@ -7,7 +7,7 @@ author_profile: true
 
 ### CISM–AIMETA Advanced Course on "Machine Learning for Solid Mechanics"
 
-Slides of the three lectures: [**LINK**](/slidescism)
+Slides of the three lectures: [**LINK**](/cism)
 
 ### Graduate Course "Geometric Numerical Analysis and Deep Learning" - University of Cambridge
 
