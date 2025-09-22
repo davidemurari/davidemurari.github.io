@@ -9,10 +9,10 @@ Slides for the 4.5-hours course at https://cism.it/en/activities/courses/C2515/
 
 #### Lecture notes:
 
-- Lecture 1: Introduction to the Mathematics of Deep Learning [**SLIDES**](/slidesCISM/lec1.pdf)
-- Lecture 2: Neural Networks as Dynamical Systems: Hamiltonian and
-1-Lipschitz Networks [**SLIDEs**](/slidesCISM/lec2.pdf)
-- Lecture 3: Physics Informed Neural Networks and Operator Learning [**SLIDEs**]
+- **Lecture 1**: Introduction to the Mathematics of Deep Learning [**SLIDES**](/slidesCISM/Lec1.pdf)
+- **Lecture 2**: Neural Networks as Dynamical Systems: Hamiltonian and
+1-Lipschitz Networks [**SLIDEs**](/slidesCISM/Lec2.pdf)
+- **Lecture 3**: Physics Informed Neural Networks and Operator Learning [**SLIDEs**](/slidesCISM/Lec3.pdf)
 
 #### Additional material:
 - My PhD Thesis where there is some more background and other constrained neural networks are discussed: [**PhD Thesis**](/phd_thesis.pdf)
