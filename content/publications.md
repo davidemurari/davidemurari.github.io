@@ -4,7 +4,7 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 
 ### Published works
 
-- - Murari, D., Furuya, T., & Schönlieb, C. B. (2025). Approximation theory for 1-Lipschitz ResNets. NeurIPS 2025.
+- Murari, D., Furuya, T., & Schönlieb, C. B. (2025). Approximation theory for 1-Lipschitz ResNets. NeurIPS 2025.
 - Celledoni, E., Jackaman, J., Murari, D., & Owren, B. (2025). Predictions based on pixel data: insights from PDEs and finite differences. Journal of Computational Physics, 114166.
 - Celledoni, E., Çokaj, E., Leone, A., Leyendecker, S., Murari, D., Owren, B., de Almagro, R.T. and Stavole, M. (2025). Neural Networks for the Approximation of Euler's Elastica. Computer Methods in Applied Mechanics and Engineering, 435, 117584
 - Celledoni, E., Murari, D., Owren, B., Schönlieb, C. B., & Sherry, F. (2023). Dynamical systems–based neural networks. SIAM Journal on Scientific Computing, 45(6), A3071-A3094.
