@@ -1,6 +1,8 @@
 #### Lecture notes:
 
-- Slides introductory lecture: [**SLIDES**](/notesunivr2025/lecture1.pdf)
+- Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](/static/notesunivr2025/lecture1.pdf)
+- Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](/static/notesunivr2025/lecture2.pdf)
+- Slides Lecture 3 - "Symplectic Neural Flows and Neural ODEs": [**SLIDES**](/static/notesunivr2025/lecture3.pdf)
 
 #### Additional material:
 - My PhD Thesis where there is some more background and other constrained neural networks are discussed: [**PhD Thesis**](/phd_thesis.pdf)
