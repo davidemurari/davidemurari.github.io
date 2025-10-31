@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- Vector Institute, Toronto, Canada (Online Seminar). "Approximation theory for 1-Lipschitz ResNets", [**SLIDES**](/slides/slidesVectorInstitute.pdf)
 - SIAM Annual Meeting, Montreal, Canada. "Symplectic Neural Flows", [**SLIDES**](/slides/MontrealSIAM.pdf)
 -  NOMADS Seminar, GSSI, L'Aquila, Italy. "Symplectic Neural Flows for Modelling and Discovery", [**SLIDES**](/slides/Slides_GSSI_SympFlow.pdf)
 - Workshop "Deep Learning for PDE-based Inverse Problems", 31 October 2024 - Oberwolfach, Germany. "Dynamical systems-based structured networks", [**SLIDES**](/slides/slides_oberwolfach.pdf)
