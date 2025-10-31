@@ -1,6 +1,6 @@
 # About me and my research
 
-I am Davide Murari. I like reading, long-distance running and trying to explain what I know online. I have a Youtube channel about mathematics' popularisation in Italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a Postdoctoral Research Associate in the Cambridge Image Analysis (CIA) group at the University of Cambridge.
+I am Davide Murari. I like reading, [long-distance running](https://www.strava.com/athletes/51965363) and trying to explain what I know online. I have a Youtube channel about mathematics' popularisation in Italian, that can be found here [**Youtube Channel**](https://youtube.com/mathonevideo) I'm a Postdoctoral Research Associate in the Cambridge Image Analysis (CIA) group at the University of Cambridge.
 
 My PhD thesis can be found [**here**](https://davidemurari.com/phd_thesis.pdf) and is titled "Neural Networks, Differential Equations, and Structure Preservation". I have completed my PhD in September 2024, in the Differential Equations and Numerical Analysis group at NTNU, Trondheim, Norway, under the supervision of Elena Celledoni and Brynjulf Owren.
 
