@@ -1,6 +1,6 @@
 #### Lecture notes:
 
-- Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](lecture1.pdf)
+- Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](notesunivr2025/lecture1.pdf)
 - Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](lecture2.pdf)
 - Slides Lecture 3 - "Symplectic Neural Flows and Neural ODEs": [**SLIDES**](lecture3.pdf)
 
