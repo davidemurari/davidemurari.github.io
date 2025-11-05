@@ -1,0 +1,3 @@
+{{ if and (not .Site.IsServer) .Site.DisqusShortname }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
