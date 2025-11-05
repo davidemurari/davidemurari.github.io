@@ -63,3 +63,5 @@ The norm of $L$ relates to how well separated are the clusters in the space $\ma
 Thus one needs to focus more on the other component of the sensitivity vector $\eta$, which is th sensitivity $\mathcal{\bar{N}}$ has with respect to input perturbations.
 
 We study some components of this problem in the note [Sensitivity of Dynamical systems](/posts/sensitivity-dynamical-systems), thinking to the **interpretation of ResNets as dynamical systems' discretizations** (add note here)
+
+{{< disqus >}}

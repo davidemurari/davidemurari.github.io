@@ -159,3 +159,5 @@ $$
 $$
 
 It is immediate to notice that $z^Tz=0$ for any $z$, by the properties of the $\mathbb{R}^3$ cross-product $\times$.
+
+{{< disqus >}}

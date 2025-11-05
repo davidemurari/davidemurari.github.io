@@ -44,3 +44,5 @@ where $I$ is the **index of the critical point** $f$.
 
 Consequently regular points are isolated
 > Add a brief proof of this
+
+{{< disqus >}}

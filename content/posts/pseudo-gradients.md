@@ -44,3 +44,5 @@ $$
 > Here expand on how pseudo-gradients allow to characterise the **stable** and **unstable** manifolds of the equilibria of $-\nabla f(x)$. These facts allow to prove that these vector fields are [structurally stable](/posts/structural-stability) provided the stable and unstable manifolds of the critical points intersect transversely (see [Morse–Smale system - Wikipedia](https://en.wikipedia.org/wiki/Morse%E2%80%93Smale_system#:~:text=Any%20Morse%20function%20f%20on,form%20a%20Morse%E2%80%93Smale%20system.) ).
 
 Add some important information from [Morse-Smale systems - Scholarpedia](http://www.scholarpedia.org/article/Morse-Smale_systems) where it is studied when these systems are structurally stable.
+
+{{< disqus >}}

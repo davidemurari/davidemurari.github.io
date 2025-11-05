@@ -20,3 +20,5 @@ $$
 =\left(\sum_{i=1}^n (e_ie_i^T)\otimes (e_ie_i^T)\right)\mathrm{vec}(A) =:T\mathrm{vec}(A).
 $$
 
+
+{{< disqus >}}
