@@ -26,14 +26,6 @@ defaults:
   run:
     shell: bash
 
-services:
-  disqus:
-    shortname: davidemurari
-# (optional—ensure it’s not disabled)
-privacy:
-  disqus:
-    disable: false
-
 jobs:
   # Build job
   build:
