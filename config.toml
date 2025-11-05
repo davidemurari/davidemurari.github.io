@@ -6,13 +6,13 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-services:
-  disqus:
-    shortname: davidemurari
-# (optional—ensure it’s not disabled)
-privacy:
-  disqus:
-    disable: false
+[services]
+  [services.disqus]
+    shortname = "davidemurari"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
 
 [markup.highlight]
 style = "github-dark"
