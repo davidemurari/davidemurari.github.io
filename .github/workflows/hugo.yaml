@@ -26,6 +26,10 @@ defaults:
   run:
     shell: bash
 
+services:
+  disqus:
+    shortname: davidemurari
+
 jobs:
   # Build job
   build:
