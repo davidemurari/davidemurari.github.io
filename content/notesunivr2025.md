@@ -1,7 +1,9 @@
 #### Lecture notes:
 
 - Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](lecture1.pdf)
-- Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](lecture2.pdf)
+- Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](lecture2.pdf) 
+- Code for Symplectic Network / HNN: https://github.com/davidemurari/univrGeometricIntegration/blob/main/SympNet.ipynb 
+- Code for the robustness experiment: https://github.com/davidemurari/bookChapterDS 
 - Slides Lecture 3 - "Symplectic Neural Flows and Neural ODEs": [**SLIDES**](lecture3.pdf)
 
 #### Additional material:
