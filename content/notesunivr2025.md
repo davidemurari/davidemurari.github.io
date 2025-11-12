@@ -1,5 +1,7 @@
 #### Lecture notes:
 
+Link to UniVR webpage for the course: https://www.di.univr.it/?ent=seminario&id=6779 
+
 - Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](lecture1.pdf)
 - Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](lecture2.pdf) 
 - Code for Symplectic Network / HNN: https://github.com/davidemurari/univrGeometricIntegration/blob/main/SympNet.ipynb 
