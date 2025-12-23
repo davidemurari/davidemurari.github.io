@@ -63,7 +63,7 @@ id = "G-GD5GGFV8ZQ"
 [[menu.main]]
 name = "Blog"
 weight = 1
-url = "posts/"
+url = "https://mathonelist.substack.com/"
 [[menu.main]]
   name = "About"
   weight = 2
