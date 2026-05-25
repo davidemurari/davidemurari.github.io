@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Slides for the 50-minute lecture in the non-examinable course on "Scientific Machine Learning" at the MPhil in Data Intensive Science, Cambridge.
+[**SLIDES**](slidesMPhil.pdf)
 
 
 
