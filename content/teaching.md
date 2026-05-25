@@ -5,6 +5,11 @@ permalink: teaching/
 author_profile: true
 ---
 
+### Non-examinable course on "Scientific Machine Learning"
+**MPhil in Data Intensive Science, Cambridge, May 2026**.
+
+Slids and code: [**LINK**](/mphil)
+
 ### "Neural Networks as Dynamical Systems"
 **University of Verona, November 2025**.
 
