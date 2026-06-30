@@ -6,7 +6,7 @@ author_profile: true
 ---
 - SciCADE 2026, Edinburgh, UK, 30 June 2026. "Discovering Piecewise-Smooth Dynamics from Trajectory Data", [**SLIDES**](https://canva.link/scicade2026murari)
 - REMODEL Conference, Trondheim, Norway, 12 May 2026 "Approximation theory for 1-Lipschitz ResNets", [**SLIDES**](/slides/remodel2026.pdf)
-- EUROMECH Colloquium 662, Como, Italy, 28 April 2026. "Discovering Piecewise-Smooth Dynamics from Trajectory Data", [**SLIDES**](https://canva.link/euromechcomomurari)
+- EUROMECH Colloquium 662, Como, Italy, 28 April 2026. "Discovering Piecewise-Smooth Dynamics from Trajectory Data", [**SLIDES**](https://canva.link/slidescomo)
 - Vector Institute, Toronto, Canada (Online Seminar), 31 October 2025. "Approximation theory for 1-Lipschitz ResNets", [**SLIDES**](/slides/slidesVectorInstitute.pdf), [**TALK RECORDING**](https://www.youtube.com/watch?v=TceGfGvd-9M&list=PLe19jL1Jw7q-wlIGZT_W9UF6rL008VaXU&index=1)
 - SIAM Annual Meeting, Montreal, Canada.  "Symplectic Neural Flows", [**SLIDES**](/slides/MontrealSIAM.pdf)
 -  NOMADS Seminar, GSSI, L'Aquila, Italy. "Symplectic Neural Flows for Modelling and Discovery", [**SLIDES**](/slides/Slides_GSSI_SympFlow.pdf)
