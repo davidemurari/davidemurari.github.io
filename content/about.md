@@ -12,4 +12,4 @@ This perspective naturally connects deep learning with tools and questions from 
 
 Alongside my academic work, I run **Mathone**, a mathematics outreach project I started in 2015. It began as a blog and later grew into a YouTube channel dedicated to mathematical popularisation. Until 2025, all content was produced in Italian; since 2026, I have transitioned to English to reach a broader audience.
 
-I created this website to keep track of my research, improve my writing, and share what I learn along the way through the [Blog](/posts). I am always happy to connect with researchers interested in related topics and open to potential collaborations.
+I created this website to keep track of my research, improve my writing, and share what I learn along the way through the [Blog](/posts). I am always happy to connect with researchers interested in related topics and open to potential collaborations. You can contact me at **dm2011 [at] cam.ac.uk**.

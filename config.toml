@@ -58,6 +58,11 @@ id = "G-GD5GGFV8ZQ"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/dademurari/"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:dm2011@cam.ac.uk"
 
 # Menu links
 [[menu.main]]
