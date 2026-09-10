@@ -1,3 +1,5 @@
+[UniVR webpace of the course](https://www.di.univr.it/?ent=seminario&id=6405&lang=en)
+
 Introductory slides [**SLIDES**](https://docs.google.com/presentation/d/1MZfbEtq8GmEjDnp64cMnYh8c_Jet_9PPRvgwBLBW9RM/edit?usp=sharing)
 
 **Code examples:** [**GitHub repo**](https://github.com/davidemurari/univrGeometricIntegration)
