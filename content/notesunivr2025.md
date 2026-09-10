@@ -1,6 +1,6 @@
-#### Lecture notes:
+[UniVR webpage of the course](https://www.di.univr.it/?ent=seminario&id=6779)
 
-Link to UniVR webpage for the course: https://www.di.univr.it/?ent=seminario&id=6779 
+#### Lecture notes:
 
 - Slides Lecture 1 - "Introduction to the Mathematics of Deep Learning": [**SLIDES**](lecture1.pdf)
 - Slides Lecture 2 - "Neural Networks as Dynamical Systems": [**SLIDES**](lecture2.pdf) 
