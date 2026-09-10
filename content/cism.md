@@ -5,7 +5,7 @@ permalink: teaching/cism/
 author_profile: true
 ---
 
-Slides for the 4.5-hours course at https://cism.it/en/activities/courses/C2515/ 
+Slides for the 4.5-hour course at the [Archived CISM course page](https://web.archive.org/web/20251114200821/https://cism.it/en/activities/courses/C2515/) · [Current CISM course page](https://cism.it/en/activities/courses/C2515/) (currently unavailable).
 
 #### Lecture notes:
 
