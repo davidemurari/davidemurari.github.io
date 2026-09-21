@@ -7,7 +7,7 @@ author_profile: true
 - SCML 2026, Bath, UK, 17 September 2026. "Physics-informed discovery of non-smooth
 dynamical systems from trajectory data", [**SLIDES**](/slides/scml2026.pdf)
 - FoCM 2026, Vienna, Austria, 15 July 2026. "Symplectic Neural Flows
-for Modelling and Discovery", [**SLIDES**](slides/focm2026.pdf)
+for Modelling and Discovery", [**SLIDES**](/slides/focm2026.pdf)
 - SciCADE 2026, Edinburgh, UK, 30 June 2026. "Discovering Piecewise-Smooth Dynamics from Trajectory Data", [**SLIDES**](https://canva.link/scicade2026murari)
 - REMODEL Conference, Trondheim, Norway, 12 May 2026 "Approximation theory for 1-Lipschitz ResNets", [**SLIDES**](/slides/remodel2026.pdf)
 - EUROMECH Colloquium 662, Como, Italy, 28 April 2026. "Discovering Piecewise-Smooth Dynamics from Trajectory Data", [**SLIDES**](https://canva.link/slidescomo)
