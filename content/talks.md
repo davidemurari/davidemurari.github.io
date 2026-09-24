@@ -4,6 +4,8 @@ title: "Talks and presentations"
 permalink: talks/
 author_profile: true
 ---
+- Phi-ML meets Engineering seminar series, The Alan Turing Institute, 24 September 2026. "Physics-informed discovery of non-smooth
+dynamical systems from trajectory data", [**SLIDES**](/slides/turingInstituteTalk.pdf)
 - SCML 2026, Bath, UK, 17 September 2026. "Physics-informed discovery of non-smooth
 dynamical systems from trajectory data", [**SLIDES**](/slides/scml2026.pdf)
 - FoCM 2026, Vienna, Austria, 15 July 2026. "Symplectic Neural Flows
